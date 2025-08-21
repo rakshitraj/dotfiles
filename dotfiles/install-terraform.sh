@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the version of Terraform to install
-TERRAFORM_VERSION="1.6.1"
+TERRAFORM_VERSION="1.12.2"
 
 # Download the Terraform binary
 echo "\n📦 Downloading the terraform binary..."
